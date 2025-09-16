@@ -1,5 +1,5 @@
 {
-  "name": "quick-commit",
+  "name": "quick-commit-cli",
   "version": "1.0.0",
   "description": "A CLI to speed up git commits with emojis and templates",
   "main": "bin/quick-commit.js",
@@ -7,6 +7,6 @@
     "quick-commit": "bin/quick-commit.js"
   },
   "keywords": ["git", "cli", "commit", "automation"],
-  "author": "Suneel",
+  "author": "Suneel D.K",
   "license": "MIT"
 }
